@@ -7,7 +7,6 @@ public class SpawnEnemy : MonoBehaviour
     public GameObject enemy;
 
     public List<Transform> waypoints;
-
     public List<Material> materials;
     // Start is called before the first frame update
     void Start()
